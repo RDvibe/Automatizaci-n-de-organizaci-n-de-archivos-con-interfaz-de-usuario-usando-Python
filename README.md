@@ -24,9 +24,8 @@ O si deseas convertirlo en un ejecutable:
 
 ```
 pyinstaller --onefile organizador_archivos.py
-El ejecutable estará en la carpeta dist.
-
 ```
+El ejecutable estará en la carpeta dist.
 
 Extensiones Organizadas
 .txt: Archivos_TXT
