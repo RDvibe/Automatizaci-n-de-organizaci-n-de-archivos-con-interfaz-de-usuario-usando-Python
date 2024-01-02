@@ -11,9 +11,10 @@ Asegúrate de tener Python y las siguientes bibliotecas instaladas. Puedes insta
 ```bash
 pip install tk
 
-```
+
 pip install pyinstaller
 ```
+
 2. Ejecución del Programa
 Para ejecutar el programa, simplemente ejecuta el script organizador_archivos.py con Python:
 
