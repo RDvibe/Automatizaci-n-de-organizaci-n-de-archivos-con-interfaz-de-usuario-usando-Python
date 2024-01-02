@@ -48,7 +48,7 @@ Extensiones Organizadas:
 
 .py: Archivos_Python
 
-#Personalización
+# Personalización
 Para personalizar la organización, simplemente añade nuevas extensiones y asigna una carpeta específica en el diccionario de extensiones en el script.
 
 Ejecuta el programa y utiliza la interfaz gráfica para añadir extensiones personalizadas.
