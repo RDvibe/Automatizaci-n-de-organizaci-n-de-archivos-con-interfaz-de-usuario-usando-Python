@@ -1,21 +1,20 @@
-# Automatizaci-n-de-organizaci-n-de-archivos-con-interfaz-de-usuario-usando-Python
+# Organizador de Archivos
+
 Este programa te permite organizar tus archivos en carpetas específicas según su extensión. Simplemente selecciona el directorio que deseas organizar, y el programa clasificará automáticamente los archivos en las carpetas correspondientes.
 
-Instrucciones de Uso
-Instalación de Dependencias:
+## Instrucciones de Uso
+
+### 1. Instalación de Dependencias
 
 Asegúrate de tener Python y las siguientes bibliotecas instaladas. Puedes instalarlas ejecutando:
 
-bash
-Copy code
+```bash
 pip install tk
-En el caso de convertir el script a un ejecutable, necesitarás PyInstaller. Puedes instalarlo con:
 
 bash
 Copy code
 pip install pyinstaller
-Ejecución del Programa:
-
+2. Ejecución del Programa
 Para ejecutar el programa, simplemente ejecuta el script organizador_archivos.py con Python:
 
 bash
